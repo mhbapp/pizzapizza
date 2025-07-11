@@ -14,7 +14,7 @@ vegetarian = st.sidebar.checkbox("Vegetarian", value=False)
 vegan = st.sidebar.checkbox("Vegan", value=False)
 
 # Topping lists
-meat_toppings = ["Pepperoni", "Sausage", "Bacon", "Ham", "Chicken", "Anchovies"]
+meat_toppings = ["Pepperoni", "Sausage", "Bacon", "Ham", "Chicken", "Anchovies", "Steak"]
 vegetarian_toppings = ["Mushrooms", "Bell Peppers", "Olives", "Onions", "Pineapple", "Tomatoes", "Jalapeños"]
 vegan_toppings = ["Mushrooms", "Bell Peppers", "Olives", "Onions", "Pineapple", "Spinach", "Zucchini", "Artichokes"]
 
